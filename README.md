@@ -1,98 +1,35 @@
-# Hi 👋, I'm G. Sanjansah
+# Hi there, I'm G. Sanjansah! 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Student+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;Future+AI+Engineer+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+Welcome to my GitHub profile! I am an aspiring developer who is just starting out on this journey. I believe in being completely honest about where I stand: I am a true beginner, but I have a strong drive to learn, grow, and build things that matter.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</p>
+My goal right now isn't to look like an expert—it's to focus on building real skills, writing my first lines of code, and developing practical projects that can actually be useful to people.
 
 ---
 
-## 🌌 About Me
+## 🙋‍♂️ About Me
 
-```yaml
-Name: G. Sanjansah
-Education: B.Tech in Artificial Intelligence
-Languages: Python, Java, C
-Focus: AI, Machine Learning, Software Development
-Goal: Become an AI Engineer
-```
+* 🌱 **Current Focus:** I am completely new to programming and actively focusing on learning the absolute basics of software development.
+* 🎯 **My Goal:** To move from theory to practice by building small, utility-focused projects that solve everyday problems.
+* 🧠 **Mindset:** Embracing the learning curve. I know I will make mistakes, run into bugs, and write messy code at first, but I am committed to improving one commit at a time.
+* 🚀 **Interests:** Fascinated by how technology works behind the scenes and eager to understand how to build clean, functional tools from scratch.
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ My Growth Tracker
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,git,github,vscode,linux,mysql,tensorflow,pytorch" />
-</p>
+*As a beginner, this section is short right now—and that's okay! Here is what I am currently diving into:*
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+* **Learning:** [Insert what you are learning right now, e.g., HTML, CSS, Python, or Git basics]
+* **Tools I'm Using:** VS Code, Git, GitHub
+* **Next Milestone:** Writing my very first independent script/web page and hosting it here.
 
 ---
 
-## 🔥 GitHub Streak
+## 🤝 Let's Connect
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+Since I am just starting out, I would love to connect with mentors, fellow beginners, and anyone willing to share guidance, code reviews, or helpful learning resources.
 
----
+* 📧 **Email:** [sanjansah.dev@gmail.com]
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/sanjansah-guntipelly-89babb411/]
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 🌟 Current Goals
-
-* 📚 Master Python Development
-* 🤖 Build AI & ML Projects
-* 🚀 Contribute to Open Source
-* 💼 Land a Software/AI Internship
-* 🏆 Grow My GitHub Portfolio
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sanjansah.dev@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00F7FF&height=120&section=footer"/>
-</p>
-
-### 💡 Favorite Quote
-
-> "The best way to predict the future is to build it."
+> 💡 *"Every expert was once a beginner who refused to give up."*
